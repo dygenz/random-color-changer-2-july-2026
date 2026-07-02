@@ -1,4 +1,4 @@
-# random-color-changer-2-july-2026
+# Random Color Generator
 A simple random color generator which pick color randomaly and change the background color of the page
 
 ## Features
